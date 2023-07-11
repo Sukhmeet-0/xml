@@ -1,0 +1,24 @@
+<<?xml version="1.0" encoding="UTF-8"?>
+
+
+<friendsList>
+	<friend>
+		<name>Sukhmeet</name>
+		<age>22</age>
+	</friend>
+	<friend>
+		<name>Kulwant</name>
+		<age>49</age>
+	</friend>
+	<bestFriend>
+		<name>myself</name>
+		<age>infinite</age> 
+	</bestFriend>
+</friendsList>
+
+
+<f:table xmlns:f="http://www.w3.org/TR/html4?">
+	<f:name>coffee table</name>
+	<f:width>10</width>
+	<f:length>21</length>
+</f:table>
